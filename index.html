@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>WitVia APT-repository</title>
+  <style>
+    :root { color-scheme: light; font-family: system-ui, sans-serif; color: #172728; background: #f3f7f7; }
+    body { max-width: 760px; margin: 4rem auto; padding: 0 1.5rem; }
+    main { padding: 2rem; border: 1px solid #dce7e7; border-radius: 18px; background: white; box-shadow: 0 18px 45px #0b696a18; }
+    h1 { color: #075456; }
+    code, pre { font-family: ui-monospace, monospace; }
+    pre { overflow-x: auto; padding: 1rem; border-left: 4px solid #0b696a; background: #eef6f6; }
+    a { color: #0b696a; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>WitVia för Linux ARM64</h1>
+    <p>Detta är Witcons signerade APT-repository för WitVia Edge.</p>
+    <pre><code>curl -fLO https://witcon-ab.github.io/WitVia-Packages/install-from-apt.sh
+less install-from-apt.sh
+sudo bash install-from-apt.sh</code></pre>
+    <p>Installationsskriptet accepterar endast <code>arm64</code>. Läs alltid skriptet innan det körs som root.</p>
+    <p><a href="https://github.com/Witcon-AB/WitVia-Packages/releases">Visa publicerade WitVia-releaser på GitHub</a></p>
+  </main>
+</body>
+</html>

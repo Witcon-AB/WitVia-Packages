@@ -1,0 +1,18 @@
+Package: witvia-core
+Version: 0.10.1
+Architecture: arm64
+Maintainer: Witcon AB <support@witcon.se>
+Installed-Size: 124344
+Depends: ca-certificates, network-manager, nginx, openssl, polkitd, systemd
+Filename: pool/main/w/witvia-core/witvia-core_0.10.1_arm64.deb
+Size: 37098782
+MD5sum: e6c2fc4bb10dba89ecd72d69e528b925
+SHA1: 04a1519fe68183a0efe50596827203f75fe59442
+SHA256: 826ecd938f06ba6756d9eeb091fc8b6df32c07b946a1da38800402ffc3da574d
+Section: admin
+Priority: optional
+Homepage: https://witcon.se/
+Description: WitVia Edge Core, KNX listener and managed updater
+ WitVia Core provides the local ValueBus runtime, Source Admin, System Admin,
+ license registration, signed updates and the self-contained KNX bridge.
+

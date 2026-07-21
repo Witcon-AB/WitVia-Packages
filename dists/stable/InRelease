@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Architectures: arm64
+Codename: stable
+Components: main
+Date: Tue, 21 Jul 2026 10:42:03 +0000
+Label: WitVia
+Origin: Witcon AB
+Suite: stable
+MD5Sum:
+ 861cb9ecc13ce055f5804636d88c1d86              139 Release
+ 23778d6bb11c8bf4375498e472410a30              716 main/binary-arm64/Packages
+ 983eb2e3fd34b13871624bc088be6122              511 main/binary-arm64/Packages.gz
+SHA1:
+ 3e91e0231f452fea4cc99f1219deb127968c52cf              139 Release
+ a70802ba8ada7db4e7582ad90314e42b203411c0              716 main/binary-arm64/Packages
+ 4e6530fb2e50461250c1ebca39c6f940430973dc              511 main/binary-arm64/Packages.gz
+SHA256:
+ 83faba695ce9abef58499ec7eff528921e623b8d5562a77087e608fad6fe659c              139 Release
+ 492a21d0d09142e57c56c0db0f93a48dcb539c4c63935a207ac88c39bcef0bc1              716 main/binary-arm64/Packages
+ 09264435ff9971da82dc5924d3286976c2dcd3450ad0fd73d49fcd993b648991              511 main/binary-arm64/Packages.gz
+SHA512:
+ 83879c2e3d0f3923580ae59c37f5941c90a7970eb2307b0755e09cd3c7575f54573133d1c2f81ca3001e5d539c8106e412aa82d57208009fdff4f120c9ce3ea2              139 Release
+ e918b36cc489592861dc1b1822fa7d85e63452f4ea2e13e34e0024d295b3ef6b140f3cd633aa2599ae310c342dc9c9e84a566a91762509ad5321779f79280ef8              716 main/binary-arm64/Packages
+ 32e57c98bc9152cec056ae62d8e34766156c2d8cf16558e27d512bc00aef858252baed2cc03032ea1943820524f0e4210d6cfe37080cd335515bcaade209a180              511 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCAAdFiEEZzLPlWnMwas6OchsTELR5/HKYF4FAmpfTPsACgkQTELR5/HK
+YF5jwAv/cb6zV7XYKv8cuG3ijCcDM0VuM3izYLd5wwDVoRZplwGnTOZXJpsaOFkA
+gKXa34eRgTVRR/9QQZIgg/pzbIRejsmST/wM3OMMmRs354r6GzhPIMDZq/LISY7Q
+gumu7Ul9f7ADtQn99E4B24DGc+m+ekKt6Citx4+xSeI+n7kuDzWFoCtNZ4JNxuYp
+HsqPd/59PbO7CL1w9v1yXeXhjG0ERu/H5s9Ak8YfxOhtqTMQX3cmHftG2xx52w1c
+rhrtsjYMx/JMwSNgX16wPxxq11Ny7/umQgX0ggQyXR2OVhHFr87cBw+LJ6WbD19r
+JEdHJOOzqrLfKS0r38vqhTpMXccb1NWcERJeoe9a2e5ilwMbRdUr7gCLZOTyDgRb
+d1dv0jx8oRQ4CY+NR+KGH1v2ihLYd9DA+PcQ4VS/k0+0PVvdFHzP6z97AsdSlWYV
+LnZHjtdK3UExXmrVnsiTLcRuhFs2TXgms8esSYhpLS9eobRqb5nliXSr8ty40aqq
+ubok8k5/
+=3dtV
+-----END PGP SIGNATURE-----
