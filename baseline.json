@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "0.11.369",
+  "version": "0.11.370",
   "packages": [
     {
       "product": "witvia-modules",
@@ -503,14 +503,14 @@
     {
       "product": "witvia-core",
       "component": "core",
-      "version": "0.11.369",
-      "sha256": "0c1a0d58f4117ef75d1e35e8c02c9eefc9333bfc923947a7d7e7b9c11605de72",
-      "sizeBytes": 4036790,
-      "sourceRevision": "9519381b1fb0d826d14311d5b3e97ed059b9a72a",
+      "version": "0.11.370",
+      "sha256": "39f9c29192dc94619e105dca883f8249d5a8f0e94af5f20d63d56135f171cefe",
+      "sizeBytes": 4035111,
+      "sourceRevision": "32875e01f3fb9006cb55e2e7b6e4b0a21f62f017",
       "package": "witvia-core",
       "root": "/opt/witvia",
       "versions": "versions",
-      "payload": "/usr/lib/witvia-initial/witvia-core/core/0.11.369"
+      "payload": "/usr/lib/witvia-initial/witvia-core/core/0.11.370"
     }
   ]
 }

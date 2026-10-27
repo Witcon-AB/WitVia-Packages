@@ -4,33 +4,33 @@ Hash: SHA256
 Architectures: arm64
 Codename: stable
 Components: main
-Date: Tue, 27 Oct 2026 14:46:58 +0000
+Date: Tue, 27 Oct 2026 15:39:19 +0000
 Label: WitVia
 Origin: Witcon AB
 Suite: stable
 MD5Sum:
- d602865d26657881bea142833fe16dfa            20605 main/binary-arm64/Packages
- a9c78e585dba121f10643799507a0812             5550 main/binary-arm64/Packages.gz
+ e1ac453d6dcd62542c9b0187050660b1            20605 main/binary-arm64/Packages
+ dac9479511f99cf9ae4cb2b41b1c5731             5558 main/binary-arm64/Packages.gz
 SHA1:
- 7790aef756df853484d5cf91690b7ddfa6abcc30            20605 main/binary-arm64/Packages
- ff970c21e927b508c6e18778520ec216a2265b7f             5550 main/binary-arm64/Packages.gz
+ 47492ecec7127eaaf04328d9303b4f0334f4fc6d            20605 main/binary-arm64/Packages
+ f273ea2b1d3c69ce657310c672285c8e8d9438a2             5558 main/binary-arm64/Packages.gz
 SHA256:
- ed78074f71fb5faa5ddfb255ccce50d9e591c3025ea9e641a8508d5f2c6166c3            20605 main/binary-arm64/Packages
- 45b593a1c8f75623d29e9d5aeee772c6ad35e016648c534544cb6c141413f9e1             5550 main/binary-arm64/Packages.gz
+ 941ba50a234be0df682c9920438df7669b9e3d83383119793d7c60bf313afc79            20605 main/binary-arm64/Packages
+ 9e8f334e5b3d86cda14ea14ca99570f3d649f521d9a23cc0f91baa140b4365d2             5558 main/binary-arm64/Packages.gz
 SHA512:
- b1bab53a1f8167b73f5fdc65a020b0cb2ce218e2af7ff2ce62e077511e199d89a8da52a429d0f12eb1d220c06a3dec0cec60c06508fc0668967a8ae47c8396bd            20605 main/binary-arm64/Packages
- d29c9d0fda67d315b7b48b764aef0fdc625fdfeb191d8dee67a144c9d03f0dfbe5a42b60f24372961e2b3c784b6d5cb3b1c542b68a22bc0df04009b09d45220c             5550 main/binary-arm64/Packages.gz
+ 64eb11b8a718bc690a34b4a1ab0c4fda00fe5cc26ae66daec3b0f14b0065b56ec86f09b1cfceb16af98252b149e009579c8feeca595c377f9b23c98e88d6629f            20605 main/binary-arm64/Packages
+ fb3fbc86e323c06d64784ac6735fc9e22b79452c3c1339eb1b226735c91da46faa920efaa1bfa0ab6619d96fd5345959b730512e79de0e96a938fa23c7f71dbb             5558 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCAAdFiEEZzLPlWnMwas6OchsTELR5/HKYF4FAmrguWIACgkQTELR5/HK
-YF6cwAv/aAMBuyv3EOfE5C02YgvlYImleYLPljhzf4hKNCQB5cIZf559AuUAPTuY
-ZKgnzsUYPkKwK6ecrI3jLVse5XulmO3VV6pYq2eYEwSKAqK8Q3gMOQbqP2v6eeea
-MBagi2g9e54qo78ZkvDL/wzkK6CfcaO5vmC9vSdajpUktFQs9LBLSR8oGJazoJio
-6PPpg60rwL+Tz24d8JsIfarOWHWw8YkoZ+9YhqdJhbZSz5KQ85g7r7Z9pJ7Zeo0o
-+qSpRz6YP2nbSaAs2KiTWFHe6PppTDaxJR2TOEyZwhbZkcbNdks1sHZb9hrJK0OB
-2+PC5uDHPN2Qin642hTJ/kwRoRT5m/QrzxNWjt8PA3T3U3n50fHUw1eHMbsWCIk9
-+DP3les1IDmREQ7TZmyC8tQX/rK52xtOxqC+oIsjMqzAZzB3wfiVEIj2ar+ah7/A
-4GHZ0e21mVTycG4q6NI8twoIb92KaceWWYbOgHMNiJAc7EYQf3vPf1ls2vSMPk3U
-kdcmpcb6
-=GUDc
+iQGzBAEBCAAdFiEEZzLPlWnMwas6OchsTELR5/HKYF4FAmrgxacACgkQTELR5/HK
+YF5bTgv/TobJtW/y5WySi9elKDCcVzd9wckzQ4OBpzGqS/y5fhLxulg2T4P7rH5p
+7hL6svkMG5E//785KlMq7mTpV30bJdNFNWR/lK6UQm8LNbWMU5UQknTIIOLKL1ed
+PE9VPIeNA6BHS3J/xgNKEaZA2KDuDv//Ka76JgRQJznr35pzcrxZ008TmYr6o7u8
+hWXcoG4baBJn8VfIxPL3EbL9bJhBeE1bilOLWI5D1O/+o+L4L07fS+/yAzfvyQFn
+sYYUNKEFbxZUUl9v8VLX9covrhg3pJhyRSoajEh0TlFag4Ufv+yJKbe4E29F4rto
+uujMZfPPPcCnhCUG3nCJ83P6KqkiJN7sH9BQNkmmkvkqs1O6pCmZQjusaGpU5lMs
+JdZlWg2CI8cGxtfAKqFvO5iSVvFav5QzN5CH09fNvmYY9mRb17k4ELtjgDHcltLC
+p6CxA2wQYTgB88EG8yqq/VuOBihrPdtxEthFxQ8p9Ux7ywyDaE8UipdkzF1/jT4Y
+QvZkVY8U
+=remP
 -----END PGP SIGNATURE-----
