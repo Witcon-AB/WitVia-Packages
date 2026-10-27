@@ -1,23 +1,19 @@
 Architectures: arm64
 Codename: stable
 Components: main
-Date: Tue, 21 Jul 2026 10:42:03 +0000
+Date: Tue, 27 Oct 2026 14:46:58 +0000
 Label: WitVia
 Origin: Witcon AB
 Suite: stable
 MD5Sum:
- 861cb9ecc13ce055f5804636d88c1d86              139 Release
- 23778d6bb11c8bf4375498e472410a30              716 main/binary-arm64/Packages
- 983eb2e3fd34b13871624bc088be6122              511 main/binary-arm64/Packages.gz
+ d602865d26657881bea142833fe16dfa            20605 main/binary-arm64/Packages
+ a9c78e585dba121f10643799507a0812             5550 main/binary-arm64/Packages.gz
 SHA1:
- 3e91e0231f452fea4cc99f1219deb127968c52cf              139 Release
- a70802ba8ada7db4e7582ad90314e42b203411c0              716 main/binary-arm64/Packages
- 4e6530fb2e50461250c1ebca39c6f940430973dc              511 main/binary-arm64/Packages.gz
+ 7790aef756df853484d5cf91690b7ddfa6abcc30            20605 main/binary-arm64/Packages
+ ff970c21e927b508c6e18778520ec216a2265b7f             5550 main/binary-arm64/Packages.gz
 SHA256:
- 83faba695ce9abef58499ec7eff528921e623b8d5562a77087e608fad6fe659c              139 Release
- 492a21d0d09142e57c56c0db0f93a48dcb539c4c63935a207ac88c39bcef0bc1              716 main/binary-arm64/Packages
- 09264435ff9971da82dc5924d3286976c2dcd3450ad0fd73d49fcd993b648991              511 main/binary-arm64/Packages.gz
+ ed78074f71fb5faa5ddfb255ccce50d9e591c3025ea9e641a8508d5f2c6166c3            20605 main/binary-arm64/Packages
+ 45b593a1c8f75623d29e9d5aeee772c6ad35e016648c534544cb6c141413f9e1             5550 main/binary-arm64/Packages.gz
 SHA512:
- 83879c2e3d0f3923580ae59c37f5941c90a7970eb2307b0755e09cd3c7575f54573133d1c2f81ca3001e5d539c8106e412aa82d57208009fdff4f120c9ce3ea2              139 Release
- e918b36cc489592861dc1b1822fa7d85e63452f4ea2e13e34e0024d295b3ef6b140f3cd633aa2599ae310c342dc9c9e84a566a91762509ad5321779f79280ef8              716 main/binary-arm64/Packages
- 32e57c98bc9152cec056ae62d8e34766156c2d8cf16558e27d512bc00aef858252baed2cc03032ea1943820524f0e4210d6cfe37080cd335515bcaade209a180              511 main/binary-arm64/Packages.gz
+ b1bab53a1f8167b73f5fdc65a020b0cb2ce218e2af7ff2ce62e077511e199d89a8da52a429d0f12eb1d220c06a3dec0cec60c06508fc0668967a8ae47c8396bd            20605 main/binary-arm64/Packages
+ d29c9d0fda67d315b7b48b764aef0fdc625fdfeb191d8dee67a144c9d03f0dfbe5a42b60f24372961e2b3c784b6d5cb3b1c542b68a22bc0df04009b09d45220c             5550 main/binary-arm64/Packages.gz

@@ -11,6 +11,11 @@ if [[ "${EUID:-$(id -u)}" -ne 0 ]]; then
   echo "Run this installer with sudo." >&2
   exit 1
 fi
+. /etc/os-release
+if [[ "${VERSION_ID%%.*}" -lt 13 ]]; then
+  echo 'WitVia initial installation requires Debian 13 / Raspberry Pi OS Trixie or newer.' >&2
+  exit 1
+fi
 
 temporary="$(mktemp -d)"
 trap 'rm -rf -- "$temporary"' EXIT
