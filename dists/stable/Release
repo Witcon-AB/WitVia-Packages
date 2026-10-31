@@ -1,19 +1,19 @@
 Architectures: arm64
 Codename: stable
 Components: main
-Date: Sat, 31 Oct 2026 00:49:43 +0000
+Date: Sat, 31 Oct 2026 02:15:59 +0000
 Label: WitVia
 Origin: Witcon AB
 Suite: stable
 MD5Sum:
- 998c699b110f1264618c8690f09f1113            20605 main/binary-arm64/Packages
- 8036fed18ff7c1a95c76950a8e72a33c             5555 main/binary-arm64/Packages.gz
+ 8e521f82be79bbcdc8b1da67ffd31637            20605 main/binary-arm64/Packages
+ 0bc375da99343541099233f634f13d97             5553 main/binary-arm64/Packages.gz
 SHA1:
- 7bdfbb6253aa6f0d43574cef1bc080725bcd4b8d            20605 main/binary-arm64/Packages
- bc3664c3d0939467102e12f8cf4dac28b66aaa76             5555 main/binary-arm64/Packages.gz
+ eda64ae4fae40d140a6533d45d61cd7b167103e4            20605 main/binary-arm64/Packages
+ 675d90b0d4456393481b1024b9ac5a1b70bb84a4             5553 main/binary-arm64/Packages.gz
 SHA256:
- 680abea51f69f43ddd5346368b71975f59f841ec77909a0dae324a8efafefc2b            20605 main/binary-arm64/Packages
- cc6c54ce20f1fdbf79caafb9de9930e9bb01230573a11d3cd89d11c373c3a433             5555 main/binary-arm64/Packages.gz
+ 5715784cbc7b6ea0c622b4b8a9f96d21a743189768f70ef925fd051a9ad559cc            20605 main/binary-arm64/Packages
+ f927a1985f4f35f02656b11de86cd536a9e253807d9bb3b028d9e168e111e660             5553 main/binary-arm64/Packages.gz
 SHA512:
- a9de7dca61e8f16d05a68852995aa0fb2dbe97034f5545476f1acad15dcb092ca3cd12504a7f2fec9e81a24cee62d06191e762c4c42f175eda193f429cca3337            20605 main/binary-arm64/Packages
- fa73138bcfb28c03a6ff6e12b17424bf6ed4e28322276012eb86bff7ef10aa6100735e4c23c4961b377b47bf16e338215ff0336bcac3642b93af3c3567442902             5555 main/binary-arm64/Packages.gz
+ 2b0279b8d462bf2cd1c20ea58498d18ff4ee001eed202de834d1cc467dd72d35a155c287405ed794f1948944f950db497dd190e83df0817bcf51d2cd245001eb            20605 main/binary-arm64/Packages
+ 8fa86711a8c325968f637e42a8b3aab089d74d6b735dc9318e39cd9eb3700f83d08251743a4acddd3a8c61c21211551eccec80ef7b639c768824aed2561b3697             5553 main/binary-arm64/Packages.gz
