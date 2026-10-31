@@ -279,15 +279,15 @@ Priority: optional
 Description: WitVia zigbee initial installation package
 
 Package: witvia-core
-Version: 0.11.374
+Version: 0.11.375
 Architecture: arm64
 Maintainer: Witcon AB
-Depends: libc6 (>= 2.38), libgcc-s1, witvia-system-base (= 0.11.374)
-Filename: pool/main/w/witvia-core/witvia-core_0.11.374_arm64.deb
-Size: 2948190
-MD5sum: 1e187a43e9c33496cb9f53bf4f32e934
-SHA1: 7cda388f597f6c25b194669856d7cb3ea037a7f2
-SHA256: ec44b91d69e87dc9cdefa1c0f95360e8811180e73c07a3660e7b14d2eb76a4c0
+Depends: libc6 (>= 2.38), libgcc-s1, witvia-system-base (= 0.11.375)
+Filename: pool/main/w/witvia-core/witvia-core_0.11.375_arm64.deb
+Size: 2958054
+MD5sum: 48cf8510300f87938186619f0f4262cd
+SHA1: f2d259165b81ec1e98a4cf7165369ad9f575b5fb
+SHA256: d01d8843490dbe520718a06b477efafbb4d39a46fddc8e0b9bace540cbbbe321
 Section: net
 Priority: optional
 Description: WitVia core initial installation package
@@ -419,15 +419,15 @@ Priority: optional
 Description: WitVia adapter-updater initial installation package
 
 Package: witvia-system-base
-Version: 0.11.374
+Version: 0.11.375
 Architecture: arm64
 Maintainer: Witcon AB
 Depends: adduser, ca-certificates, curl, iproute2, network-manager, openssl, polkitd, python3, systemd (>= 257), util-linux, witvia-modules-mcp (>= 0.1.22), witvia-adapters-can (>= 0.2.5), witvia-adapters-ocpp (>= 0.2.12), witvia-modules-styrning (>= 0.4.56), witvia-adapters-zigbee (>= 0.1.343), witvia-mdns (>= 0.1.13), witvia-modules-history (>= 0.1.11), witvia-adapters-home-assistant (>= 0.2.6), witvia-gateways-remote-module (>= 0.1.55), witvia-ui (>= 0.1.168), witvia-adapters-matter (>= 0.2.209), witvia-modules-energy (>= 0.1.8), witvia-adapters-sign (>= 0.2.21), witvia-adapters-sonos (>= 0.1.20), witvia-modules-alarm (>= 0.3.47), witvia-system-core-updater (>= 0.1.72), witvia-adapters-shelly (>= 0.1.10), witvia-system-web-gateway (>= 0.1.4), witvia-adapters-bacnet (>= 0.2.15), witvia-adapters-mqtt (>= 0.2.20), witvia-adapters-modbus (>= 0.2.36), witvia-adapters-timechannel (>= 0.1.5), witvia-system-system-management (>= 0.1.13), witvia-adapters-homey (>= 0.1.13), witvia-adapters-knx (>= 0.4.45), witvia-system-system-health (>= 0.1.6), witvia-adapters-hue (>= 0.1.5), witvia-adapters-nibe (>= 0.1.15), witvia-system-management-auth (>= 0.1.5), witvia-adapters-syslog (>= 0.1.6), witvia-system-commandbus (>= 0.2.16), witvia-adapters-opcua (>= 0.3.1), witvia-adapters-pjlink (>= 0.1.13), witvia-system-adapter-updater (>= 0.1.38), witvia-adapters-snmp (>= 0.1.9), witvia-system-source-management (>= 0.1.22), witvia-modules-bridge (>= 0.2.36), witvia-valuebus-legacy (>= 0.11.367)
-Filename: pool/main/w/witvia-system-base/witvia-system-base_0.11.374_arm64.deb
+Filename: pool/main/w/witvia-system-base/witvia-system-base_0.11.375_arm64.deb
 Size: 29184
-MD5sum: 7902f59c2893060858eef820fcbcd607
-SHA1: 20d91aa9ebadea45b2d74372ec1b16bd00844727
-SHA256: 18f731fab048f62017c4053c0672bce644b64ad4028817dc6c041a2fcc05dc00
+MD5sum: 5e3fb0dec0ff6122492c52980d1c7abd
+SHA1: e2343a84f6c42249509bf19f55f72454b30b975f
+SHA256: 3b3790dc8570776498851b0729580314396e9a6cd06eeca77c5861ee8a9025c3
 Section: net
 Priority: optional
 Description: WitVia initial system configuration for Debian 13 ARM64
