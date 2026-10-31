@@ -1,307 +1,307 @@
 Package: witvia-adapters-bacnet
-Version: 0.2.15
+Version: 0.2.19
 Architecture: arm64
 Maintainer: Witcon AB
 Depends: libc6 (>= 2.38), libgcc-s1
-Filename: pool/main/w/witvia-adapters-bacnet/witvia-adapters-bacnet_0.2.15_arm64.deb
-Size: 9908464
-MD5sum: b77d9b5c741f0987ea2d30384c87b79f
-SHA1: 47eaf84086a87b056d825954edb1adc2ea0c1997
-SHA256: 5c05fa34f5b3c7c543cf0a74ffafecb19acbaa3ec67578894b873977935dc623
+Filename: pool/main/w/witvia-adapters-bacnet/witvia-adapters-bacnet_0.2.19_arm64.deb
+Size: 10527744
+MD5sum: 3d4c4401797a2e4038094ea66ceb3a21
+SHA1: 8b2d83e3fc860ee21fcfe185e901a4ed63f91746
+SHA256: 36908e40fc9692eadebfd7b9be79c2e2cc15464d77ffd5e4c2aa955d7a3c51ed
 Section: net
 Priority: optional
 Description: WitVia bacnet initial installation package
 
 Package: witvia-adapters-can
-Version: 0.2.5
+Version: 0.2.8
 Architecture: arm64
 Maintainer: Witcon AB
 Depends: libc6 (>= 2.38), libgcc-s1
-Filename: pool/main/w/witvia-adapters-can/witvia-adapters-can_0.2.5_arm64.deb
-Size: 5984070
-MD5sum: af15260201ddda7d1547910301d287ab
-SHA1: 39fa3162dfa652a342e5fd17320cdf6c13fd4bea
-SHA256: 02cb9cb14f7a88c13f967a010ac8ce1b0da11d91f41a841204563cd5dadf5dc6
+Filename: pool/main/w/witvia-adapters-can/witvia-adapters-can_0.2.8_arm64.deb
+Size: 6595066
+MD5sum: 47166513145c91929d594fbc9128bb11
+SHA1: 27914c9298abeb765bc81bc19fa3c216607fb5d2
+SHA256: 61a4089e6fedc634f82cb396fe5867ddc170b7f3477540f28f5f1ed0684dffe7
 Section: net
 Priority: optional
 Description: WitVia can initial installation package
 
 Package: witvia-adapters-home-assistant
-Version: 0.2.6
+Version: 0.2.9
 Architecture: arm64
 Maintainer: Witcon AB
 Depends: libc6 (>= 2.38), libgcc-s1
-Filename: pool/main/w/witvia-adapters-home-assistant/witvia-adapters-home-assistant_0.2.6_arm64.deb
-Size: 8175180
-MD5sum: 29f49f3099d774c16ff7727214d2f299
-SHA1: 5251762551b1564b20d83884701ec502ae529fc1
-SHA256: 9e98fee31051ad09736f75ac59ac79a07f2bb02deda3611e34b4b19d12a6453c
+Filename: pool/main/w/witvia-adapters-home-assistant/witvia-adapters-home-assistant_0.2.9_arm64.deb
+Size: 8768516
+MD5sum: 4895a635491962de9c4a8b48440caa12
+SHA1: 73ed8f5314dbe9ed623a4b8e69d84e4f09cfbd56
+SHA256: 8a2628aa31744cedf73d861ca1fa230eba0bc0601d0bb49447285eda38269e53
 Section: net
 Priority: optional
 Description: WitVia home-assistant initial installation package
 
 Package: witvia-adapters-homey
-Version: 0.1.13
+Version: 0.1.18
 Architecture: arm64
 Maintainer: Witcon AB
 Depends: libc6 (>= 2.38), libgcc-s1
-Filename: pool/main/w/witvia-adapters-homey/witvia-adapters-homey_0.1.13_arm64.deb
-Size: 5896688
-MD5sum: 967f81ab885b44574eb38277c1f0224a
-SHA1: 855591f96c352144539b2aacb4f875a94b6ee4aa
-SHA256: e82d82a34547036591d9b5355fdff4b4960e3b9fcce6e8571d2deb4a6a8a8167
+Filename: pool/main/w/witvia-adapters-homey/witvia-adapters-homey_0.1.18_arm64.deb
+Size: 6876644
+MD5sum: 19d4c73a12def8f005bb77f27ba6fb0c
+SHA1: 16dc437908645224bd5e653b1a204e587c865647
+SHA256: 26637ad31a852c07e292f1922a0e17f57c803bcfa1c963b261000a33d3356794
 Section: net
 Priority: optional
 Description: WitVia homey initial installation package
 
 Package: witvia-adapters-hue
-Version: 0.1.5
+Version: 0.1.8
 Architecture: arm64
 Maintainer: Witcon AB
 Depends: libc6 (>= 2.38), libgcc-s1
-Filename: pool/main/w/witvia-adapters-hue/witvia-adapters-hue_0.1.5_arm64.deb
-Size: 7405758
-MD5sum: c47ac322f17feabd339d276467dc0c4a
-SHA1: 9cfa4f0b1ef11083314ba40bd6021966ff4632ea
-SHA256: 038b9c69340bb358596bcb956fb13f8f11d17abb5f1bc37cff0833dee9cd971f
+Filename: pool/main/w/witvia-adapters-hue/witvia-adapters-hue_0.1.8_arm64.deb
+Size: 8068198
+MD5sum: 12d641408ebd87d953e33e0e56bf8352
+SHA1: 2df606b87bb392f0e638d3607298f4509126ab38
+SHA256: 7a4b761873f7e7214fa313315ceb2c2754af0e3cc85f6aafefb41c1f942577c4
 Section: net
 Priority: optional
 Description: WitVia hue initial installation package
 
 Package: witvia-adapters-knx
-Version: 0.4.45
+Version: 0.4.57
 Architecture: arm64
 Maintainer: Witcon AB
 Depends: libc6 (>= 2.38), libgcc-s1, libicu76, libssl3t64, libstdc++6, zlib1g
-Filename: pool/main/w/witvia-adapters-knx/witvia-adapters-knx_0.4.45_arm64.deb
-Size: 34448894
-MD5sum: 41b825c0feaf79f16baf6e9963b4fc4c
-SHA1: cfea79d716b3fcc54ef96c9f0b9a7d77f5fd0f4a
-SHA256: 1e661f556fed4a68801eb934f4cd4937bb817f11e5133c0d403f892124021984
+Filename: pool/main/w/witvia-adapters-knx/witvia-adapters-knx_0.4.57_arm64.deb
+Size: 35081884
+MD5sum: 080c616ea983a7b0c779172f1488f215
+SHA1: 0eb48551662b5746420f8caa798e61c80dfedd85
+SHA256: 1f01e693760245f153f322a550ed29173f9ab83af004505be83709178d6e9980
 Section: net
 Priority: optional
 Description: WitVia knx initial installation package
 
 Package: witvia-adapters-matter
-Version: 0.2.209
+Version: 0.2.219
 Architecture: arm64
 Maintainer: Witcon AB
 Depends: libc6 (>= 2.38), libgcc-s1
-Filename: pool/main/w/witvia-adapters-matter/witvia-adapters-matter_0.2.209_arm64.deb
-Size: 13458940
-MD5sum: 72576f4d0846035d237d923608ae8913
-SHA1: ca495d235372572f9e6af2d55d9304149833abdc
-SHA256: f0a54a98ecb1fa14c0d19d3e6a13080176a4dd33ef247e0f77497840d967d54b
+Filename: pool/main/w/witvia-adapters-matter/witvia-adapters-matter_0.2.219_arm64.deb
+Size: 14157074
+MD5sum: bf5bdf4fef9ca2b9251723895a7faa91
+SHA1: 8c14d66436dfba69b58dfbc3dc1bc67d7b4dfe2b
+SHA256: 5e334eca81a6f86819b2edcfbe5383ed33d90298215e095186d6f0e1863f7e91
 Section: net
 Priority: optional
 Description: WitVia matter initial installation package
 
 Package: witvia-adapters-modbus
-Version: 0.2.36
+Version: 0.2.44
 Architecture: arm64
 Maintainer: Witcon AB
 Depends: libc6 (>= 2.38), libgcc-s1
-Filename: pool/main/w/witvia-adapters-modbus/witvia-adapters-modbus_0.2.36_arm64.deb
-Size: 9056562
-MD5sum: 11a0d33b870d9a09a73ac8527a921717
-SHA1: ffa5d0925f410fbfe251d2280d3dba8291ec7058
-SHA256: 1d9ca0f6fe606ba9856cedfd675854a9c904a0b72a584751425b5356a13a9606
+Filename: pool/main/w/witvia-adapters-modbus/witvia-adapters-modbus_0.2.44_arm64.deb
+Size: 9788694
+MD5sum: 8962553b32ca2c79bd1a3ce35eb5a9a7
+SHA1: 18aee793f14d0b83ddf6aed9a33a9058f13261c3
+SHA256: 266bd13e2200d9997ff3b7cd566c5fb361d44a59939c8b69704b58d55e261129
 Section: net
 Priority: optional
 Description: WitVia modbus initial installation package
 
 Package: witvia-adapters-mqtt
-Version: 0.2.20
+Version: 0.2.28
 Architecture: arm64
 Maintainer: Witcon AB
 Depends: libc6 (>= 2.38), libgcc-s1
-Filename: pool/main/w/witvia-adapters-mqtt/witvia-adapters-mqtt_0.2.20_arm64.deb
-Size: 10686396
-MD5sum: cfe0e0b142bcdd2d1c79a24e580a9552
-SHA1: 7d7da18c4ea3df6728b8c120369d232813c26a98
-SHA256: 85bf41570e82868365c228440323f99261a66aee12f09830f623de84e0faf4a6
+Filename: pool/main/w/witvia-adapters-mqtt/witvia-adapters-mqtt_0.2.28_arm64.deb
+Size: 11521518
+MD5sum: da1209d8adf98edea8c908fb59bfbff2
+SHA1: d9d603eebe4cee8b08be8c719bfd9c9b0dea8e6e
+SHA256: 8d67138bcce48239fdd3d83c28cbf400809cff1486351776ba6d498892996693
 Section: net
 Priority: optional
 Description: WitVia mqtt initial installation package
 
 Package: witvia-adapters-nibe
-Version: 0.1.15
+Version: 0.1.21
 Architecture: arm64
 Maintainer: Witcon AB
 Depends: libc6 (>= 2.38), libgcc-s1
-Filename: pool/main/w/witvia-adapters-nibe/witvia-adapters-nibe_0.1.15_arm64.deb
-Size: 9215692
-MD5sum: 1987c65f6c6d6bb8ecbcad76004e6b6c
-SHA1: aae32b48a5b7dd41fcf7aa38d409a1abeaad12fc
-SHA256: ea248b0c42890409a4ef87687f6ad4909263ff0c9f562d4860fb53fba4d2e5b4
+Filename: pool/main/w/witvia-adapters-nibe/witvia-adapters-nibe_0.1.21_arm64.deb
+Size: 9880012
+MD5sum: b75c5ba8bc8d13361dd2271df8f6dcb6
+SHA1: 31ab260a74f0ae4ca2858117402a36b502776733
+SHA256: 3cd6c6b023b19048c329668ad24c29bbccd8efbf74398096527f79cbe07634f2
 Section: net
 Priority: optional
 Description: WitVia nibe initial installation package
 
 Package: witvia-adapters-ocpp
-Version: 0.2.12
+Version: 0.2.24
 Architecture: arm64
 Maintainer: Witcon AB
 Depends: libc6 (>= 2.38), libgcc-s1
-Filename: pool/main/w/witvia-adapters-ocpp/witvia-adapters-ocpp_0.2.12_arm64.deb
-Size: 7719706
-MD5sum: 1467492aa6c430598de9c9a41587ec55
-SHA1: 079d286136529134bb310396202bad213c0c008b
-SHA256: 98008188576ab52dd2b63a1d5ce5de50e0f8c85b7c4f2da2c6159bf531beaeb5
+Filename: pool/main/w/witvia-adapters-ocpp/witvia-adapters-ocpp_0.2.24_arm64.deb
+Size: 10525552
+MD5sum: 6cae47c3f4c4617e5c2d99a84d113e90
+SHA1: 2eb8254d8b6b62bf12a7a1b38440d6cdecb111dc
+SHA256: 0b6e7ad04d3641034715c03c64d445f31184fe3241d65f940207770f881afc56
 Section: net
 Priority: optional
 Description: WitVia ocpp initial installation package
 
 Package: witvia-adapters-opcua
-Version: 0.3.1
+Version: 0.3.6
 Architecture: arm64
 Maintainer: Witcon AB
 Depends: libc6 (>= 2.38), libgcc-s1
-Filename: pool/main/w/witvia-adapters-opcua/witvia-adapters-opcua_0.3.1_arm64.deb
-Size: 10759230
-MD5sum: 9ad3efacf5fc3e4f137feb26f843593f
-SHA1: 919738819a250715833a6487ebaae1ad6107d7b4
-SHA256: c402b6b281cdbcfded8b65bf8e06b0491e50c5005dcadbe9c1817588389c25dc
+Filename: pool/main/w/witvia-adapters-opcua/witvia-adapters-opcua_0.3.6_arm64.deb
+Size: 11434922
+MD5sum: 0efd13a966dceab9ccbb6ce35d228b15
+SHA1: 36e1c2f378d5e725c581b4136220bca14e25d00a
+SHA256: 5c3bad018296c06cc602bd596f040e763999476952f3937525bc11f7d4820d02
 Section: net
 Priority: optional
 Description: WitVia opcua initial installation package
 
 Package: witvia-adapters-pjlink
-Version: 0.1.13
+Version: 0.1.16
 Architecture: arm64
 Maintainer: Witcon AB
 Depends: libc6 (>= 2.38), libgcc-s1
-Filename: pool/main/w/witvia-adapters-pjlink/witvia-adapters-pjlink_0.1.13_arm64.deb
-Size: 6110940
-MD5sum: 18f75886c1aca602dcb2ec1a6a3603e5
-SHA1: b1cf9fee815502ce3b258a24d7276d79107ad2f3
-SHA256: 6a2aeddc5b68fcbf9b479a104fd99fc12b5aa578ce4a62d6a747906154295120
+Filename: pool/main/w/witvia-adapters-pjlink/witvia-adapters-pjlink_0.1.16_arm64.deb
+Size: 6731552
+MD5sum: b3e0cff9e584de3c7b2e59ffcf7c3d7c
+SHA1: 9f7634b719b9d741b1d019ff7a8ec78d802e2686
+SHA256: 63b02183e97e57961a3c764720f664a57709ff9924fe5a51506c265c7378d165
 Section: net
 Priority: optional
 Description: WitVia pjlink initial installation package
 
 Package: witvia-adapters-shelly
-Version: 0.1.10
+Version: 0.1.20
 Architecture: arm64
 Maintainer: Witcon AB
 Depends: libc6 (>= 2.38), libgcc-s1
-Filename: pool/main/w/witvia-adapters-shelly/witvia-adapters-shelly_0.1.10_arm64.deb
-Size: 9270020
-MD5sum: 220016c92ccd0d6b49fbd0344187f571
-SHA1: 14372ea316f8cfdc76b3f3b53465d8111e4eb3b5
-SHA256: 533608b39be7eef130bec58c0ec44e4da8bb817e14068a397ab61f33875e9d2d
+Filename: pool/main/w/witvia-adapters-shelly/witvia-adapters-shelly_0.1.20_arm64.deb
+Size: 11333278
+MD5sum: c439d5ea117fb5a3230ce259a2763638
+SHA1: 8b97d22e6594e00bbe148201b4fad01db625085e
+SHA256: d583097e6b7260fe0ecd085880d31f669b8e24d97f42d2fc3f291be814d48f1e
 Section: net
 Priority: optional
 Description: WitVia shelly initial installation package
 
 Package: witvia-adapters-sign
-Version: 0.2.21
+Version: 0.2.28
 Architecture: arm64
 Maintainer: Witcon AB
 Depends: libc6 (>= 2.38), libgcc-s1
-Filename: pool/main/w/witvia-adapters-sign/witvia-adapters-sign_0.2.21_arm64.deb
-Size: 9965346
-MD5sum: ebc3a20d705b86263c361f4ec9663eb7
-SHA1: c09d7c956eaaf40c4a02c2550c6000aa2ff928a3
-SHA256: a532f5ee85f2fba9e62a9555922a3178ce51a63a355d51c0950329df542656bd
+Filename: pool/main/w/witvia-adapters-sign/witvia-adapters-sign_0.2.28_arm64.deb
+Size: 10663058
+MD5sum: eaee952e3796cf6857dd4be897f0a4f8
+SHA1: c982cd75fccce593e5d34222fd1c9cf173d1ed85
+SHA256: 0e0e22dedc2280f9482e330490e15b2abdef4f128573e864a9b642924e40c67f
 Section: net
 Priority: optional
 Description: WitVia sign initial installation package
 
 Package: witvia-adapters-snmp
-Version: 0.1.9
+Version: 0.1.13
 Architecture: arm64
 Maintainer: Witcon AB
 Depends: libc6 (>= 2.38), libgcc-s1
-Filename: pool/main/w/witvia-adapters-snmp/witvia-adapters-snmp_0.1.9_arm64.deb
-Size: 7441506
-MD5sum: 4217bb35b41d90729febf5634539e073
-SHA1: eaf7a3dd29169a60990da2f89afb6c6a3ff4f729
-SHA256: 358e4c3d99d68526fdbc90d5beb75c5dffc41482dd0c7fcd9fffcc77953cd5ed
+Filename: pool/main/w/witvia-adapters-snmp/witvia-adapters-snmp_0.1.13_arm64.deb
+Size: 8049664
+MD5sum: 70c454da10fb77e4a8d36e247d4662b7
+SHA1: 9b864d1f0af0b1d5094423a12cb4bfebd493332d
+SHA256: be08ad3fcdf87b5520edf1523683591987ede4426bebd1637a0f01670c77c381
 Section: net
 Priority: optional
 Description: WitVia snmp initial installation package
 
 Package: witvia-adapters-sonos
-Version: 0.1.20
+Version: 0.1.26
 Architecture: arm64
 Maintainer: Witcon AB
 Depends: libc6 (>= 2.38), libgcc-s1
-Filename: pool/main/w/witvia-adapters-sonos/witvia-adapters-sonos_0.1.20_arm64.deb
-Size: 9420726
-MD5sum: 583470b24647c59633a5f8ef5022cabd
-SHA1: 55afc59d17dcbd57ea40fd1404b3b54d9dc46ac7
-SHA256: 6e74ca01514fa716cde7cdc076eb56f4f01500f8c6cff277131be85e1a9e3eed
+Filename: pool/main/w/witvia-adapters-sonos/witvia-adapters-sonos_0.1.26_arm64.deb
+Size: 10052024
+MD5sum: ebe1b4e5143cfd312cbc7310a6516507
+SHA1: ae9425960ac3729099c77cd5b02cf2b736f3eb33
+SHA256: c0dbe39b44f144dd21d8fc92a8c618bee716977a8db0e2d80a693009123945ac
 Section: net
 Priority: optional
 Description: WitVia sonos initial installation package
 
 Package: witvia-adapters-syslog
-Version: 0.1.6
+Version: 0.1.10
 Architecture: arm64
 Maintainer: Witcon AB
 Depends: libc6 (>= 2.38), libgcc-s1
-Filename: pool/main/w/witvia-adapters-syslog/witvia-adapters-syslog_0.1.6_arm64.deb
-Size: 5920080
-MD5sum: 7277438f6d48a366f4d78f479d25c2a9
-SHA1: d3860498a8b386bcfaae7d68aafec7b58570813a
-SHA256: 91157b2b44b86a489d3be01699e84d4c15873a758434dd4c79edcab8a04c87ac
+Filename: pool/main/w/witvia-adapters-syslog/witvia-adapters-syslog_0.1.10_arm64.deb
+Size: 6554410
+MD5sum: f6a157a68a3b86a59a00f1bf54864dee
+SHA1: 27daf06012bb067277cf74266e485ebcf3b058ce
+SHA256: 848bad9e2cd27efb03de1f3aea77f8b382efdf30c2ba95040e90e9c69b00dd28
 Section: net
 Priority: optional
 Description: WitVia syslog initial installation package
 
 Package: witvia-adapters-timechannel
-Version: 0.1.5
+Version: 0.1.8
 Architecture: arm64
 Maintainer: Witcon AB
 Depends: libc6 (>= 2.38), libgcc-s1
-Filename: pool/main/w/witvia-adapters-timechannel/witvia-adapters-timechannel_0.1.5_arm64.deb
-Size: 6115606
-MD5sum: f634edd14ccd3861433a602ac1550db1
-SHA1: b036ec5d217a634deafce43750ed454fd1048c9e
-SHA256: 7fa6dcac37825b03577a669a6c8b4e5e8979c06f59687d8ffea739e2d03cd7a0
+Filename: pool/main/w/witvia-adapters-timechannel/witvia-adapters-timechannel_0.1.8_arm64.deb
+Size: 6720294
+MD5sum: fed980c94a4443215be68f3157ec565e
+SHA1: 61e9a4cfc843a23f2d4114ebb632859f6ce552d5
+SHA256: 46679b9d07b42f322669b44eedd3f4b058a0544d570d8880282bbe16ad291f36
 Section: net
 Priority: optional
 Description: WitVia timechannel initial installation package
 
 Package: witvia-adapters-zigbee
-Version: 0.1.343
+Version: 0.1.349
 Architecture: arm64
 Maintainer: Witcon AB
 Depends: libc6 (>= 2.38), libgcc-s1
-Filename: pool/main/w/witvia-adapters-zigbee/witvia-adapters-zigbee_0.1.343_arm64.deb
-Size: 6077504
-MD5sum: 4629b87fb3be9a71c8228712fba4c034
-SHA1: f2f6cfae0351e70e69f3edaf5b453b4aaaa67a98
-SHA256: 4e5d3f2976afcf629794dba32aa909229d7b8ff4f24576462aafbfa91a3d3507
+Filename: pool/main/w/witvia-adapters-zigbee/witvia-adapters-zigbee_0.1.349_arm64.deb
+Size: 8524056
+MD5sum: 38be3771fb480d515feb5ff5180ff7b2
+SHA1: 8a4eeb693599aa394c6affa8b867575837a3ebf1
+SHA256: a6c1902e964aadc91c3013608119226b2b87af694b1a5a6cf86292594981c2b1
 Section: net
 Priority: optional
 Description: WitVia zigbee initial installation package
 
 Package: witvia-core
-Version: 0.11.375
+Version: 0.11.376
 Architecture: arm64
 Maintainer: Witcon AB
-Depends: libc6 (>= 2.38), libgcc-s1, witvia-system-base (= 0.11.375)
-Filename: pool/main/w/witvia-core/witvia-core_0.11.375_arm64.deb
-Size: 2958054
-MD5sum: 48cf8510300f87938186619f0f4262cd
-SHA1: f2d259165b81ec1e98a4cf7165369ad9f575b5fb
-SHA256: d01d8843490dbe520718a06b477efafbb4d39a46fddc8e0b9bace540cbbbe321
+Depends: libc6 (>= 2.38), libgcc-s1, witvia-system-base (= 0.11.376)
+Filename: pool/main/w/witvia-core/witvia-core_0.11.376_arm64.deb
+Size: 551556
+MD5sum: b0869bf1c0bd4d65f075aa6ecdb0366c
+SHA1: 64c60df3c2713183661e864d1c861fa7a11a9737
+SHA256: 5570429cec298e82e16fb5bcf7aa818e1a0521cf5468e7befadee83ff5be0aa3
 Section: net
 Priority: optional
 Description: WitVia core initial installation package
 
 Package: witvia-gateways-remote-module
-Version: 0.1.55
+Version: 0.1.57
 Architecture: arm64
 Maintainer: Witcon AB
 Depends: libc6 (>= 2.38), libgcc-s1
-Filename: pool/main/w/witvia-gateways-remote-module/witvia-gateways-remote-module_0.1.55_arm64.deb
-Size: 11239082
-MD5sum: e2c15f6cfa0e758d861ee67b0ae8ae6a
-SHA1: 9ab0b8d4b105bb1fa75c84bfd4cc2d3c3e0dff32
-SHA256: 7c86de0e5504d6d89af2e130592179ebf39bbe669455af3692b9e4ebbe3455de
+Filename: pool/main/w/witvia-gateways-remote-module/witvia-gateways-remote-module_0.1.57_arm64.deb
+Size: 11243272
+MD5sum: 563a7f829a7a61043acf73fa4fd58494
+SHA1: 41b8861e7e64dd7f537391c18f59fe15d4c76227
+SHA256: f109a6f8e3254f9f6487999c2980a1abfbece6f6ffa7f0c03daf3ad0282c4919
 Section: net
 Priority: optional
 Description: WitVia remote-module initial installation package
@@ -321,141 +321,141 @@ Priority: optional
 Description: WitVia wit-mdnsd initial installation package
 
 Package: witvia-modules-alarm
-Version: 0.3.47
+Version: 0.3.55
 Architecture: arm64
 Maintainer: Witcon AB
 Depends: libc6 (>= 2.38), libgcc-s1
-Filename: pool/main/w/witvia-modules-alarm/witvia-modules-alarm_0.3.47_arm64.deb
-Size: 4161126
-MD5sum: 993b1798037493aed927cf4d36e31e31
-SHA1: f4acbd5f4b0d702521fed8e66dddef56b220dd7f
-SHA256: 3907bfa718c5476e1992b0b986eec5e3d286032fc72b0893ae91277a3f0811eb
+Filename: pool/main/w/witvia-modules-alarm/witvia-modules-alarm_0.3.55_arm64.deb
+Size: 4163712
+MD5sum: 4201cf292a6913d7a37c50f72becb210
+SHA1: 8b4f659d492a18a2bf23720543156e6ac4798cb6
+SHA256: 840cfbfdb5591b1662d9e169904d6a19a929cc41a6112c83faeccc1bd99291e2
 Section: net
 Priority: optional
 Description: WitVia alarm initial installation package
 
 Package: witvia-modules-bridge
-Version: 0.2.36
+Version: 0.2.47
 Architecture: arm64
 Maintainer: Witcon AB
 Depends: libc6 (>= 2.38), libgcc-s1
-Filename: pool/main/w/witvia-modules-bridge/witvia-modules-bridge_0.2.36_arm64.deb
-Size: 4565712
-MD5sum: 67cbfb7e2196b8c4fb9752c04f02c059
-SHA1: 27d801ee3a1f3412aaadf99fe544759115b5a589
-SHA256: a80b5d439ac6316d6390e2fec0eca37a2c5853ac0da21e732008ebd5e398cc08
+Filename: pool/main/w/witvia-modules-bridge/witvia-modules-bridge_0.2.47_arm64.deb
+Size: 5291994
+MD5sum: eef071233833ce85a6f25cfe80655617
+SHA1: fba7763217a366171b97e1f6bf518afaeb0649f2
+SHA256: 2204c17cc6b1fd4012b1e50ef9903db01168fff1e57212352cc9ba7dfff9aa36
 Section: net
 Priority: optional
 Description: WitVia bridge initial installation package
 
 Package: witvia-modules-energy
-Version: 0.1.8
+Version: 0.1.13
 Architecture: arm64
 Maintainer: Witcon AB
 Depends: libc6 (>= 2.38), libgcc-s1
-Filename: pool/main/w/witvia-modules-energy/witvia-modules-energy_0.1.8_arm64.deb
-Size: 3712980
-MD5sum: 67975403f1a50680b41b5ed2044c02af
-SHA1: 46264bf5691d3c69747b3480bd1c64f8f97b7996
-SHA256: 23ce2fbd27771d99f21ae09978ad8cb2223ea07b042dbb431c63c3f2a5651317
+Filename: pool/main/w/witvia-modules-energy/witvia-modules-energy_0.1.13_arm64.deb
+Size: 3852764
+MD5sum: 58e99455d98fe646e27f7082116cedd1
+SHA1: 5c3b7ac561c10f78b8b73c022205b04db65b78de
+SHA256: 12e7761e3787d0c7fa261511fbbd173ed6a2304a047047ea47aa6adffd68e22d
 Section: net
 Priority: optional
 Description: WitVia energy initial installation package
 
 Package: witvia-modules-history
-Version: 0.1.11
+Version: 0.1.15
 Architecture: arm64
 Maintainer: Witcon AB
 Depends: libc6 (>= 2.38), libgcc-s1
-Filename: pool/main/w/witvia-modules-history/witvia-modules-history_0.1.11_arm64.deb
-Size: 1780298
-MD5sum: b7f2128e0dfb44fe2b8b655e740cdd20
-SHA1: 5355ed5f02178762f229b24865f805b0e0a04e93
-SHA256: 8d4e6a67c37aabc70cb2809f8d589f73de75a70c0106b3d433fea142074acbb6
+Filename: pool/main/w/witvia-modules-history/witvia-modules-history_0.1.15_arm64.deb
+Size: 1789914
+MD5sum: be251b61c7c878a13222f2221ec55abf
+SHA1: 493186908480af1a466d7f7b1c47d8bcf0cde722
+SHA256: d90a5d8d78c07b9b26a1383c31c08e8fd5d451d89580d76e84ed9e705d995365
 Section: net
 Priority: optional
 Description: WitVia history initial installation package
 
 Package: witvia-modules-mcp
-Version: 0.1.22
+Version: 0.1.27
 Architecture: arm64
 Maintainer: Witcon AB
 Depends: libc6 (>= 2.38), libgcc-s1
-Filename: pool/main/w/witvia-modules-mcp/witvia-modules-mcp_0.1.22_arm64.deb
-Size: 2086316
-MD5sum: 9c7abb335f8c30a3b56c6e986d55f0c6
-SHA1: ef259c0d6bf25dc9ca72940675c2781dcbfdc224
-SHA256: 6467ee0109f30848440cd025186e76964eb8db29a3ed45f61db48eccb35e6234
+Filename: pool/main/w/witvia-modules-mcp/witvia-modules-mcp_0.1.27_arm64.deb
+Size: 2802646
+MD5sum: dacd53dfac0b94b3a9532c9ed3c8ef0a
+SHA1: 5c6c9ea88ff7dd1b5040e7259affa800f8f516c0
+SHA256: d3f602ecfae100c259d6758b3213409e819bef2d23a5cb2fabcd38a614b313f6
 Section: net
 Priority: optional
 Description: WitVia mcp initial installation package
 
 Package: witvia-modules-styrning
-Version: 0.4.56
+Version: 0.4.68
 Architecture: arm64
 Maintainer: Witcon AB
 Depends: libc6 (>= 2.38), libgcc-s1
-Filename: pool/main/w/witvia-modules-styrning/witvia-modules-styrning_0.4.56_arm64.deb
-Size: 6008506
-MD5sum: 8f100310969454a07faa3d5f5a8ebfdd
-SHA1: 2170f45211e1042122a53e72370e69e9b7a37a1f
-SHA256: dd50b9c299e28d489d843a0053cba085f3dc30652d8517e90afcab3800ceab13
+Filename: pool/main/w/witvia-modules-styrning/witvia-modules-styrning_0.4.68_arm64.deb
+Size: 6425106
+MD5sum: 043294870dc9211d7f15d685c9c99ead
+SHA1: 30ac2b47b80c42a4e2d602eacb2b765b8006aa64
+SHA256: b3005c22fffc76f05d525525daa75c10f82746486bcabccea63542445746bc51
 Section: net
 Priority: optional
 Description: WitVia styrning initial installation package
 
 Package: witvia-system-adapter-updater
-Version: 0.1.38
+Version: 0.1.45
 Architecture: arm64
 Maintainer: Witcon AB
 Depends: libc6 (>= 2.38), libgcc-s1
-Filename: pool/main/w/witvia-system-adapter-updater/witvia-system-adapter-updater_0.1.38_arm64.deb
-Size: 2365448
-MD5sum: cca3ad595895b640635bd6c619b1c71e
-SHA1: d45539793d86dfd65f5bdb706759f3062a65f3dd
-SHA256: 1b2b00ed60e94c994b0346b808241e07e04dc87e77b5c88f1ae22b571f3a62ae
+Filename: pool/main/w/witvia-system-adapter-updater/witvia-system-adapter-updater_0.1.45_arm64.deb
+Size: 2499766
+MD5sum: 2e2a8291adc3d370f2dc869618ab13d4
+SHA1: d99ab6be955389a3e8a45423fa1e989e9c0e7885
+SHA256: 2b51b38644a6cde0b4905a5c9fc588cd7412d07bf8fbd2efd34efb61be05cf45
 Section: net
 Priority: optional
 Description: WitVia adapter-updater initial installation package
 
 Package: witvia-system-base
-Version: 0.11.375
+Version: 0.11.376
 Architecture: arm64
 Maintainer: Witcon AB
-Depends: adduser, ca-certificates, curl, iproute2, network-manager, openssl, polkitd, python3, systemd (>= 257), util-linux, witvia-modules-mcp (>= 0.1.22), witvia-adapters-can (>= 0.2.5), witvia-adapters-ocpp (>= 0.2.12), witvia-modules-styrning (>= 0.4.56), witvia-adapters-zigbee (>= 0.1.343), witvia-mdns (>= 0.1.13), witvia-modules-history (>= 0.1.11), witvia-adapters-home-assistant (>= 0.2.6), witvia-gateways-remote-module (>= 0.1.55), witvia-ui (>= 0.1.168), witvia-adapters-matter (>= 0.2.209), witvia-modules-energy (>= 0.1.8), witvia-adapters-sign (>= 0.2.21), witvia-adapters-sonos (>= 0.1.20), witvia-modules-alarm (>= 0.3.47), witvia-system-core-updater (>= 0.1.72), witvia-adapters-shelly (>= 0.1.10), witvia-system-web-gateway (>= 0.1.4), witvia-adapters-bacnet (>= 0.2.15), witvia-adapters-mqtt (>= 0.2.20), witvia-adapters-modbus (>= 0.2.36), witvia-adapters-timechannel (>= 0.1.5), witvia-system-system-management (>= 0.1.13), witvia-adapters-homey (>= 0.1.13), witvia-adapters-knx (>= 0.4.45), witvia-system-system-health (>= 0.1.6), witvia-adapters-hue (>= 0.1.5), witvia-adapters-nibe (>= 0.1.15), witvia-system-management-auth (>= 0.1.5), witvia-adapters-syslog (>= 0.1.6), witvia-system-commandbus (>= 0.2.16), witvia-adapters-opcua (>= 0.3.1), witvia-adapters-pjlink (>= 0.1.13), witvia-system-adapter-updater (>= 0.1.38), witvia-adapters-snmp (>= 0.1.9), witvia-system-source-management (>= 0.1.22), witvia-modules-bridge (>= 0.2.36), witvia-valuebus-legacy (>= 0.11.367)
-Filename: pool/main/w/witvia-system-base/witvia-system-base_0.11.375_arm64.deb
-Size: 29184
-MD5sum: 5e3fb0dec0ff6122492c52980d1c7abd
-SHA1: e2343a84f6c42249509bf19f55f72454b30b975f
-SHA256: 3b3790dc8570776498851b0729580314396e9a6cd06eeca77c5861ee8a9025c3
+Depends: adduser, ca-certificates, curl, iproute2, network-manager, openssl, polkitd, python3, systemd (>= 257), util-linux, witvia-modules-mcp (>= 0.1.27), witvia-adapters-can (>= 0.2.8), witvia-adapters-ocpp (>= 0.2.24), witvia-modules-styrning (>= 0.4.68), witvia-adapters-zigbee (>= 0.1.349), witvia-mdns (>= 0.1.13), witvia-modules-history (>= 0.1.15), witvia-adapters-home-assistant (>= 0.2.9), witvia-gateways-remote-module (>= 0.1.57), witvia-ui (>= 0.1.178), witvia-adapters-matter (>= 0.2.219), witvia-modules-energy (>= 0.1.13), witvia-adapters-sign (>= 0.2.28), witvia-adapters-sonos (>= 0.1.26), witvia-modules-alarm (>= 0.3.55), witvia-system-core-updater (>= 0.1.76), witvia-adapters-shelly (>= 0.1.20), witvia-system-web-gateway (>= 0.1.4), witvia-adapters-bacnet (>= 0.2.19), witvia-adapters-mqtt (>= 0.2.28), witvia-adapters-modbus (>= 0.2.44), witvia-adapters-timechannel (>= 0.1.8), witvia-system-system-management (>= 0.1.19), witvia-adapters-homey (>= 0.1.18), witvia-adapters-knx (>= 0.4.57), witvia-system-system-health (>= 0.1.13), witvia-adapters-hue (>= 0.1.8), witvia-adapters-nibe (>= 0.1.21), witvia-system-management-auth (>= 0.1.5), witvia-adapters-syslog (>= 0.1.10), witvia-system-commandbus (>= 0.2.24), witvia-adapters-opcua (>= 0.3.6), witvia-adapters-pjlink (>= 0.1.16), witvia-system-adapter-updater (>= 0.1.45), witvia-adapters-snmp (>= 0.1.13), witvia-system-source-management (>= 0.1.27), witvia-modules-bridge (>= 0.2.47)
+Filename: pool/main/w/witvia-system-base/witvia-system-base_0.11.376_arm64.deb
+Size: 28908
+MD5sum: 131f89836baa8790e003d594cd198b59
+SHA1: fe3c2bf7ca6270d63737422be694e93d2cdfd0ba
+SHA256: 2928883d8d9a3479555aa9c1023ff864b486cd184d05a462ec181ada1bb63e8a
 Section: net
 Priority: optional
 Description: WitVia initial system configuration for Debian 13 ARM64
 
 Package: witvia-system-commandbus
-Version: 0.2.16
+Version: 0.2.24
 Architecture: arm64
 Maintainer: Witcon AB
 Depends: libc6 (>= 2.38), libgcc-s1
-Filename: pool/main/w/witvia-system-commandbus/witvia-system-commandbus_0.2.16_arm64.deb
-Size: 1783172
-MD5sum: 13a48bde5ba13df4dd334bc291964488
-SHA1: b06284fd3f78e25fdda34938fe56bb6d3e1816d3
-SHA256: 7596c74dffbeaf6557c2131376e397c252fa3e2ecdf268b461f811011ff14d05
+Filename: pool/main/w/witvia-system-commandbus/witvia-system-commandbus_0.2.24_arm64.deb
+Size: 2226842
+MD5sum: 7f65187b8bddd01a3cefe51c23c1ec7f
+SHA1: e1020b8e67e4404f0afeb33b10e350de94660347
+SHA256: c130e38591a897fac13bb3fc0e524c8a535120a923cd173cdf45502bd9d6561f
 Section: net
 Priority: optional
 Description: WitVia commandbus initial installation package
 
 Package: witvia-system-core-updater
-Version: 0.1.72
+Version: 0.1.76
 Architecture: arm64
 Maintainer: Witcon AB
 Depends: libc6 (>= 2.38), libgcc-s1
-Filename: pool/main/w/witvia-system-core-updater/witvia-system-core-updater_0.1.72_arm64.deb
-Size: 3824004
-MD5sum: f8ee46974252ad45beb0603f096bcee0
-SHA1: d333e3455ce4da8fba4f7b0d79334bb7f9d5f784
-SHA256: c12ced95246b03c6cbf1f5ae8cdeecdb7db6a6b00157011fa8fb1e9b9d4ab408
+Filename: pool/main/w/witvia-system-core-updater/witvia-system-core-updater_0.1.76_arm64.deb
+Size: 3881608
+MD5sum: 410915f5aab1e55b89d24c3bbfd785ce
+SHA1: 1403acd7d295b0bb196e9d0b1f78ea98f8d151ca
+SHA256: b5ed4fc2862b85cfad7e7e67c38b63b83f529d4ab50e62fea7abe46470cfe187
 Section: net
 Priority: optional
 Description: WitVia core-updater initial installation package
@@ -475,43 +475,43 @@ Priority: optional
 Description: WitVia management-auth initial installation package
 
 Package: witvia-system-source-management
-Version: 0.1.22
+Version: 0.1.27
 Architecture: arm64
 Maintainer: Witcon AB
 Depends: libc6 (>= 2.38), libgcc-s1
-Filename: pool/main/w/witvia-system-source-management/witvia-system-source-management_0.1.22_arm64.deb
-Size: 1688796
-MD5sum: d5371cde95ec5e123215039a4ae03001
-SHA1: eeb1387888fb9a79393817b1313d5404a89b6b24
-SHA256: e8042629a7afcdd4ab86210d9987624c8e19dd6ea44de72edcd268cd808afc0a
+Filename: pool/main/w/witvia-system-source-management/witvia-system-source-management_0.1.27_arm64.deb
+Size: 1850834
+MD5sum: 407990c310d49a9eab177a7c99b0ddfa
+SHA1: 4250cb9eed5f81f2c648222438ed3d90367784de
+SHA256: f6b5c7db15ce111570f05af0a905f78a9b5fca92e52c767cd8641191bd20c8ae
 Section: net
 Priority: optional
 Description: WitVia source-management initial installation package
 
 Package: witvia-system-system-health
-Version: 0.1.6
+Version: 0.1.13
 Architecture: arm64
 Maintainer: Witcon AB
 Depends: libc6 (>= 2.38), libgcc-s1
-Filename: pool/main/w/witvia-system-system-health/witvia-system-system-health_0.1.6_arm64.deb
-Size: 2271884
-MD5sum: 1a05afbd38f10e365e990fa14b7e487c
-SHA1: 7a75b1038e01bab3b0e851c841953e4536a8d087
-SHA256: b2fd646d2e72cd140f49f9878cce2bdb103bec387b327ce06fc5297d433dd799
+Filename: pool/main/w/witvia-system-system-health/witvia-system-system-health_0.1.13_arm64.deb
+Size: 3100538
+MD5sum: 36e70ea3e6bd1c004177e21705bcae9c
+SHA1: a27105f9749f1d562db65e9c32a9d9536948e290
+SHA256: d6837fe123722f6727bdeece285ccbee36da676aedd18d03e9fd06bfd068d52e
 Section: net
 Priority: optional
 Description: WitVia system-health initial installation package
 
 Package: witvia-system-system-management
-Version: 0.1.13
+Version: 0.1.19
 Architecture: arm64
 Maintainer: Witcon AB
 Depends: libc6 (>= 2.38), libgcc-s1
-Filename: pool/main/w/witvia-system-system-management/witvia-system-system-management_0.1.13_arm64.deb
-Size: 3720546
-MD5sum: ed24ea411e716b60dafccf3f4002881a
-SHA1: 46ab57b8b683dde923bebbc8004c6f5013639642
-SHA256: 84be46e324e4f2c88bd6cc5596601f172ad6374e7aedfe265e9c3ffab1cde8fb
+Filename: pool/main/w/witvia-system-system-management/witvia-system-system-management_0.1.19_arm64.deb
+Size: 3804598
+MD5sum: d8dda838d5e3013d100378783def363a
+SHA1: ae47041d7114c4b9093d9bc16933e10b0e2bfc1d
+SHA256: be8b31cdc5ce20c3108d3e00045e3b6f8b0eab53b046b06b66bb1b17b503812b
 Section: net
 Priority: optional
 Description: WitVia system-management initial installation package
@@ -531,15 +531,15 @@ Priority: optional
 Description: WitVia web-gateway initial installation package
 
 Package: witvia-ui
-Version: 0.1.168
+Version: 0.1.178
 Architecture: arm64
 Maintainer: Witcon AB
 Depends: libc6 (>= 2.38), libgcc-s1
-Filename: pool/main/w/witvia-ui/witvia-ui_0.1.168_arm64.deb
-Size: 1182242
-MD5sum: caecc38c7386cf8160a87b9f9878a21b
-SHA1: aa62f91c69ae3088e70ba0e97453d5bcda55e980
-SHA256: 1925881327cf37b37161e171586debd40c2871235734e6664c8293f5a30d407e
+Filename: pool/main/w/witvia-ui/witvia-ui_0.1.178_arm64.deb
+Size: 1188280
+MD5sum: 55c7fea1f31c24751aac3701f04da980
+SHA1: 4f6087c389caa70f3dae1b7cbf56da853bb2505c
+SHA256: 6af41fa0b5a2453ba4d581f1e771c30affa24a122bcf3ead17d8520e2bcbbb25
 Section: net
 Priority: optional
 Description: WitVia edge initial installation package
