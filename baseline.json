@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "0.11.376",
+  "version": "0.11.390",
   "packages": [
     {
       "product": "witvia-modules",
@@ -200,15 +200,15 @@
     {
       "product": "witvia-system",
       "component": "core-updater",
-      "version": "0.1.76",
-      "releaseId": "7da9d519-4ca6-49ea-8eed-ed945fcb5797",
-      "sha256": "0c683fad4fae112afd769766b7b9975f4dd1fbe75d5acf526c8f8fc3623140e0",
-      "sizeBytes": 5180919,
-      "file": "witvia-system-core-updater-0.1.76-aarch64-unknown-linux-gnu.tar.gz",
+      "version": "0.1.100",
+      "releaseId": "9f313681-e443-42a5-b126-320ead3aa39b",
+      "sha256": "7535333b64ef74ebc10f5af5ea40fda4005b9f583948d2011129f61b21c9d20e",
+      "sizeBytes": 4957628,
+      "file": "witvia-system-core-updater-0.1.100-aarch64-unknown-linux-gnu.tar.gz",
       "package": "witvia-system-core-updater",
       "root": "/opt/witvia-system/core-updater",
       "versions": "releases",
-      "payload": "/usr/lib/witvia-initial/witvia-system/core-updater/0.1.76"
+      "payload": "/usr/lib/witvia-initial/witvia-system/core-updater/0.1.100"
     },
     {
       "product": "witvia-adapters",
@@ -463,15 +463,15 @@
     {
       "product": "witvia-system",
       "component": "source-management",
-      "version": "0.1.27",
-      "releaseId": "e5143655-9c64-4ac0-9a9a-c20f0f2fc628",
-      "sha256": "012a97e2d61ebbd77563e5cc1e48466bd9fa754e8e79ba78d5c3b59b6af297e1",
-      "sizeBytes": 2280610,
-      "file": "witvia-system-source-management-0.1.27-aarch64-unknown-linux-gnu.tar.gz",
+      "version": "0.1.36",
+      "releaseId": "60f90394-b823-4cff-85e2-36db3230dac5",
+      "sha256": "1aefa67517cb6f8e3ec98def9c79809ac49a2cc9b56742e85ff70b5c5d78c22f",
+      "sizeBytes": 2358942,
+      "file": "witvia-system-source-management-0.1.36-aarch64-unknown-linux-gnu.tar.gz",
       "package": "witvia-system-source-management",
       "root": "/opt/witvia-system/source-management",
       "versions": "releases",
-      "payload": "/usr/lib/witvia-initial/witvia-system/source-management/0.1.27"
+      "payload": "/usr/lib/witvia-initial/witvia-system/source-management/0.1.36"
     },
     {
       "product": "witvia-modules",
@@ -489,14 +489,14 @@
     {
       "product": "witvia-core",
       "component": "core",
-      "version": "0.11.376",
-      "sha256": "42b5ee4da21ab05cbeea0984a3c4b84fd4eba814f6d2799fab246779ac424c98",
-      "sizeBytes": 657955,
-      "sourceRevision": "e5d980a46305087b62b9ec1c3fa7d38076393d5b",
+      "version": "0.11.390",
+      "sha256": "a3cb32db648fe8c885e55bb4183dd8489a4be576adffe3f2bdb5b7343041d297",
+      "sizeBytes": 638064,
+      "sourceRevision": "47f69b435e9a2f914437a1bd3e13739fbe347a99",
       "package": "witvia-core",
       "root": "/opt/witvia",
       "versions": "versions",
-      "payload": "/usr/lib/witvia-initial/witvia-core/core/0.11.376"
+      "payload": "/usr/lib/witvia-initial/witvia-core/core/0.11.390"
     }
   ]
 }
