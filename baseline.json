@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "0.11.390",
+  "version": "0.11.394",
   "packages": [
     {
       "product": "witvia-modules",
@@ -200,15 +200,15 @@
     {
       "product": "witvia-system",
       "component": "core-updater",
-      "version": "0.1.100",
-      "releaseId": "9f313681-e443-42a5-b126-320ead3aa39b",
-      "sha256": "7535333b64ef74ebc10f5af5ea40fda4005b9f583948d2011129f61b21c9d20e",
-      "sizeBytes": 4957628,
-      "file": "witvia-system-core-updater-0.1.100-aarch64-unknown-linux-gnu.tar.gz",
+      "version": "0.1.103",
+      "releaseId": "9480992e-fd6b-4a28-8654-cb110354b4cc",
+      "sha256": "54afa878ab36c5cd1f2efc9c33a0885d35f9f20ef69c5ff90767a764c0e8daa7",
+      "sizeBytes": 4972882,
+      "file": "witvia-system-core-updater-0.1.103-aarch64-unknown-linux-gnu.tar.gz",
       "package": "witvia-system-core-updater",
       "root": "/opt/witvia-system/core-updater",
       "versions": "releases",
-      "payload": "/usr/lib/witvia-initial/witvia-system/core-updater/0.1.100"
+      "payload": "/usr/lib/witvia-initial/witvia-system/core-updater/0.1.103"
     },
     {
       "product": "witvia-adapters",
@@ -489,14 +489,14 @@
     {
       "product": "witvia-core",
       "component": "core",
-      "version": "0.11.390",
-      "sha256": "a3cb32db648fe8c885e55bb4183dd8489a4be576adffe3f2bdb5b7343041d297",
-      "sizeBytes": 638064,
-      "sourceRevision": "47f69b435e9a2f914437a1bd3e13739fbe347a99",
+      "version": "0.11.394",
+      "sha256": "efea850bb33d4291325b7d3eb997597cdec12d48841fe8d6714906b9d87b881e",
+      "sizeBytes": 647021,
+      "sourceRevision": "bdec4f752048532dd0c2cb22b6b8dbfa4963cd69",
       "package": "witvia-core",
       "root": "/opt/witvia",
       "versions": "versions",
-      "payload": "/usr/lib/witvia-initial/witvia-core/core/0.11.390"
+      "payload": "/usr/lib/witvia-initial/witvia-core/core/0.11.394"
     }
   ]
 }
